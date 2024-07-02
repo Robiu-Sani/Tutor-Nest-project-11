@@ -3,7 +3,7 @@
 Welcome to Tutor Nest, your go-to platform for education services!
 
 [Live Site](https://amazing-concha-2bff67.netlify.app/)
-
+![HomePage](https://i.ibb.co/4dzgXG8/Screenshot-2024-07-02-174609.png)
 ## About Tutor Nest
 Tutor Nest is dedicated to providing top-notch education services tailored to your needs. Here's what sets us apart:
 
@@ -14,3 +14,10 @@ Tutor Nest is dedicated to providing top-notch education services tailored to yo
 - **Interactive Platform**: Engage in interactive sessions and utilize advanced learning tools for an enhanced learning experience.
 
 We're committed to helping you unlock your full potential and achieve academic success. Join Tutor Nest today!
+
+## how to run this project 
+```
+cd Tutor-Nest-project-11
+npm install
+npm run dev
+```
